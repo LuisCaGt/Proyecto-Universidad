@@ -1,0 +1,2 @@
+1		Gerson		Gomez		gerente		10000		activo
+2		jeff		davila		cajero		2500		activo

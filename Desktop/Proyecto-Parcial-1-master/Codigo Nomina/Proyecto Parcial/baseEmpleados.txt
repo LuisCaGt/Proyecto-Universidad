@@ -1,0 +1,4 @@
+1		jeff		davila		gerente		5500.5		activo
+2		gerson		gomez		bodeguero		3000		activo
+3		luis		lee		gerente		5000.5		inactivo
+200		luis		lee		lic		500000		activo
